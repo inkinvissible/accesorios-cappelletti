@@ -1,0 +1,74 @@
+[
+    {
+        "Codigo": "674605",
+        "Detalle": "CLIPS TAP.PUERTA VW MOD/NUEVOS",
+        "Marca": "DODGE / VOLKSWAGEN"
+    },
+    {
+        "Codigo": "852008",
+        "Detalle": "MANIJA EXT. CLIO DERECHA / IZQUIERDA",
+        "Marca": "RENAULT",
+        "Rubro": "MANIJAS EXT. ABRE PTA."
+    },
+    {
+        "Codigo": "854946",
+        "Detalle": "MANIJA EXT. CORSA 00->/ CLASSIC DEL. DERECHA",
+        "Marca": "CHEVROLET / SUZUKI",
+        "Rubro": "MANIJAS EXT. ABRE PTA."
+    },
+    {
+        "Codigo": "655206",
+        "Detalle": "MUELA FIJ.PARRILLA-PATENTE VW- FIAT- RENAULT MEDIANA",
+        "Marca": "FIAT",
+        "Rubro": "CLIPS"
+    },
+    {
+        "Codigo": "906109",
+        "Detalle": "PESTILLO DUNA PTA.DER./FIORUNO PORTON",
+        "Marca": "FIAT",
+        "Rubro": "PESTILLO DE PUERTA"
+    },
+    {
+        "Codigo": "906108",
+        "Detalle": "PESTILLO DUNA PTA.IZQ.",
+        "Marca": "FIAT",
+        "Rubro": "PESTILLO DE PUERTA"
+    },
+    {
+        "Codigo": "915905",
+        "Detalle": "PESTILLO PTA P-504 78/97 DERECHO.",
+        "Marca": "PEUGEOT / CITROEN",
+        "Rubro": "PESTILLO DE PUERTA"
+    },
+    {
+        "Codigo": "915906",
+        "Detalle": "PESTILLO PTA P-504 78/97 IZQUIERDO.",
+        "Marca": "PEUGEOT / CITROEN",
+        "Rubro": "PESTILLO DE PUERTA"
+    },
+    {
+        "Codigo": "13000",
+        "Detalle": "CUBREVOLANTE CON DETALLES Y GRAFICOS",
+        "Marca": "UNIVERSAL",
+        "Rubro": "ACCESORIOS"
+    },
+    {
+        "Codigo": "2500",
+        "Detalle": "BULONES DE RUEDA",
+        "Marca": "UNIVERSAL",
+        "Rubro": "ACCESORIOS"
+    },
+    {
+        "Codigo": "78502",
+        "Detalle": "PORTATABLAS PARA TODOS LOS MODELOS",
+        "Marca": "UNIVERSAL",
+        "Rubro": "ACCESORIOS"
+    },
+    {
+        "Codigo": "78952",
+        "Detalle": "FUNDA PARA ASIENTOS CON DETALLES Y GRAFICOS",
+        "Marca": "UNIVERSAL",
+        "Rubro": "ACCESORIOS"
+    }
+    
+]
