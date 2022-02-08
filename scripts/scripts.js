@@ -6,7 +6,7 @@ const showProducts = (jsonObj) => {
         let codigo =parseInt(producto.Codigo);
         div.className = 'rounded-lg shadow-lg bg-white max-w-sm'
         div.innerHTML = `<a href="#!">
-                        <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/184.jpg" alt="Foto" />
+                        <img class="rounded-t-lg" src="http://discor.com.ar/Imagenes/${producto.Codigo}.jpg" alt="Foto" />
                         </a>
                         <div class="p-6">
                          <h5 class="text-gray-900 text-xl font-medium mb-2">${producto.Detalle}</h5>
